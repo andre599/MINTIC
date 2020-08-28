@@ -1,0 +1,3 @@
+# MINTIC
+MINTIC- DATA SCIENCE
+prueba
